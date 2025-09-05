@@ -1,4 +1,8 @@
 size(500, 500);       
+background(200);      
+
+
+int i = 0;            
 while (i < 100) {
   // tilfældig farve
   fill(random(255), random(255), random(255));
