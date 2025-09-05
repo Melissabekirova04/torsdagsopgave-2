@@ -1,5 +1,5 @@
 void setup() {
-  int input = -20;  
+  int input = 6;  
 
   if (input >= 0) {
   
