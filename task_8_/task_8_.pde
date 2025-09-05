@@ -1,7 +1,4 @@
-size(500, 500);       // vinduets størrelse
-background(200);      // grå baggrund
-
-int i = 0;            // tæller
+size(500, 500);       
 while (i < 100) {
   // tilfældig farve
   fill(random(255), random(255), random(255));
