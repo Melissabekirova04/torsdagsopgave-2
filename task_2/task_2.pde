@@ -2,7 +2,7 @@ String name = "Melissa";
 
 int age = 21;
 
-boolean happy = true;  // ændr til false hvis du ikke er glad
+boolean happy = true;  
 
 void setup() {
   size(400, 400);
