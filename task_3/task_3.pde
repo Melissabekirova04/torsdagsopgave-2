@@ -27,7 +27,7 @@ background(0);
   }
 
  
- int x = 12;
+int x = 12;
 int y = 9;
 int z = 9;
 

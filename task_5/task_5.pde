@@ -5,7 +5,7 @@ void setup() {
 
 
 void methodOne() {
-  int i = 1000; // You are not allowed to change this line. 
+  int i = 1000; 
   int max = 10;
 
   String output;
